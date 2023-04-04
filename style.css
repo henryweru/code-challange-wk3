@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+}
+
+
+header {
+    background-color: white;
+    color: white;
+    text-align: center;
+    height: 65px;
+    font-size: 1.6vw;
+}
+
+ul {
+    background-color: white;
+    float: left;
+    list-style: circle;
+    width: 16%;
+    text-align: center;
+    margin-right: 10px;
+    color:  black;
+}
+
+li {
+    border-bottom: thin solid white;
+    padding: 15px;
+
+
+
+}
+
+#movieContainer {
+    text-align: center;
+
+}
+
+
+img {
+    width: 40%;
+    height: 350px;
+    float: left;
+    margin: 10px;
+}
